@@ -1,0 +1,9 @@
+{
+	"name": "TestFactory123Sample",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "54872b54-0f9f-48b0-b913-2a8f2b28e972",
+		"tenantId": "29c790e3-20f9-4c05-a002-209b93a9c7db"
+	}
+}
